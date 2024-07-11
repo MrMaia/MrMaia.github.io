@@ -295,7 +295,15 @@
                 "magnet:?xt=urn:btih:F2CDFF667C1040BA42680FC7AAD82A3331BB11DB&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet&dn=%5BDL%5D%20The%20Planet%20Crafter%20%5BL%5D%20%5BRUS%20%2B%20ENG%20%2B%208%20%2F%20ENG%5D%20(2024%2C%20Simulation)%20(1.105)%20%5BGOG%5D"
             ],
             "uploadDate": "2024-06-14T23:29:18.000Z",
-            "fileSize": "4.25 GiB"
+            "fileSize": "4.25 GB"
+        },
+        {
+            "title": "MURKY DIVERS (v1.105) (PT-BR) (R:ONLINE-FIX)",
+            "uris": [
+                "magnet:?xt=urn:btih:b538f4d9e1e23279f436cecb1cb3a6ba8c3be525&dn=Murky%20Divers&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969"
+            ],
+            "uploadDate": "2024-06-25T23:29:18.000Z",
+            "fileSize": "1.5 GB"
         }
     ]
 }
