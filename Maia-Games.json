@@ -304,6 +304,90 @@
             ],
             "uploadDate": "2024-06-25T23:29:18.000Z",
             "fileSize": "1.5 GB"
+        },
+
+
+
+
+        {
+            "title": "CUPHEAD (v1.3.4) (PT-BR) (TODAS DLCS) (R:GOG)",
+            "uris": [
+                "magnet:?xt=urn:btih:ece5dfdf55d78a3379ff459bd26095f8500cb07b"
+            ],
+            "uploadDate": "2023-06-10T23:29:18.000Z",
+            "fileSize": "6.9 GB"
+        },
+        {
+            "title": "SECRETS OF GRINDEA (v38) (R:GOG)",
+            "uris": [
+                "magnet:?xt=urn:btih:4ACD6AA3AB87853DE4CF8B2BCEABAF7230649E25&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet&dn=%5BDL%5D%20Secrets%20of%20Grindea%20%5BL%5D%20%5BENG%5D%20(2024%2C%20RPG)%20(38)%20%5BGOG%5D"
+            ],
+            "uploadDate": "2024-05-17T23:29:18.000Z",
+            "fileSize": "650 MB"
+        },
+        {
+            "title": "CHASM (v1.090) (PT-BR) (R:GOG)",
+            "uris": [
+                "magnet:?xt=urn:btih:6d53e66a39bb977a9d7987dbe0a792d5294383da&dn=Chasm_1.090_%2870239%29_win_gog"
+            ],
+            "uploadDate": "2024-01-06T23:29:18.000Z",
+            "fileSize": "730 MB"
+        },
+        {
+            "title": "HOLLOW KNIGHT (v1.5.78.11833) (PT-BR) (TODAS DLCS) (R:GOG)",
+            "uris": [
+                "magnet:?xt=urn:btih:145ffc1334401112551c7043edea4e0c0f594014&tr=http%3A%2F%2Fbt02.nnm-club.cc%3A2710%2F00d44f74f3ad6d396190bb98190b3f86%2Fannounce&tr=http%3A%2F%2Fbt02.nnm-club.cc%3A2710%2F00d44f74f3ad6d396190bb98190b3f86%2Fannounce"
+            ],
+            "uploadDate": "2023-05-28T23:29:18.000Z",
+            "fileSize": "2.22 GB"
+        },
+        {
+            "title": "MOMODORA: REVERIE UNDER THE MOONLIGHT (v1.07) (PT-BR) (R:GOG)",
+            "uris": [
+                "magnet:?xt=urn:btih:3C73F3D3F0208DC40B672B4577ACCAD79DDA0673&dn=Momodora_Reverie_Under_the_Moonlight_1.07_%2851078%29_win_gog"
+            ],
+            "uploadDate": "2023-10-29T23:29:18.000Z",
+            "fileSize": "135.7 MB"
+        },
+        {
+            "title": "DEAD CELLS (v1.24.4) (PT-BR) (TODAS DLCS) (R:GOG)",
+            "uris": [
+                "magnet:?xt=urn:btih:c7f5067b83199dd005d36b5fada106865e348e4e&dn=Dead_Cells_1.24.4_(65627)_win_gog"
+            ],
+            "uploadDate": "2023-05-07T23:29:18.000Z",
+            "fileSize": "5.48 GB"
+        },
+        {
+            "title": "EAGLE ISLAND TWIST (v2.0.3.5) (R:GOG)",
+            "uris": [
+                "magnet:?xt=urn:btih:B6B42CBEA77DB2691EA1CF74C74B05ED56AB993A&dn=Eagle%20Island%20Twist%20%5BL%5D%20%5BRUS%20%2B%20ENG%20%2B%204%5D%20(2019)%20(2.0.3.5)%20%5BGOG%5D"
+            ],
+            "uploadDate": "2024-02-26T23:29:18.000Z",
+            "fileSize": "538.2 MB"
+        },
+        {
+            "title": "OVERCOOKED! 2 (v6.242) (PT-BR) (TODAS DLCS) (R:GOG)",
+            "uris": [
+                "magnet:?xt=urn:btih:D707D25F613C11543EF6E33F95DE46D5D82EA41F&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet&dn=%5BDL%5D%20Overcooked!%202%20%5BL%5D%20%5BRUS%20%2B%20ENG%20%2B%2010%5D%20(6.242%20Dev%20Build%20%2B%205%20DLC)%20(2018%2C%20Arcade)%20%5BGOG%5D"
+            ],
+            "uploadDate": "2024-04-27T23:29:18.000Z",
+            "fileSize": "6.80 GB"
+        },
+        {
+            "title": "KYNSEED (v1.1.1.12102) (R:GOG)",
+            "uris": [
+                "magnet:?xt=urn:btih:0FD71F5EBA6A5BE00724195C51014C6E035BBABA&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet&dn=%5BDL%5D%20Kynseed%20%5BL%5D%20%5BENG%5D%20(2018%2C%20RPG)%20(1.1.1.12102)%20%5BGOG%5D"
+            ],
+            "uploadDate": "2024-04-11T23:29:18.000Z",
+            "fileSize": "636.7 MB"
+        },
+        {
+            "title": "THE MESSENGER (v2.0.4) (PT-BR) (TODAS DLCS) (R:GOG)",
+            "uris": [
+                "magnet:?xt=urn:btih:8F46718758E1CAFDEF010E82C3404072D4478570&dn=The%20Messenger%20%5BL%5D%20%5BRUS%20%2B%20ENG%20%2B%208%5D%20(2018)%20(2.0.4%20%2B%204%20DLC)%20%5BGOG%5D"
+            ],
+            "uploadDate": "2023-10-29T23:29:18.000Z",
+            "fileSize": "749.9 MB"
         }
     ]
 }
