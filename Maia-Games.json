@@ -481,12 +481,6 @@
             "uploadDate": "2024-07-10T23:29:18.000Z",
             "fileSize": "20 GB"
         },
-
-
-
-
-
-
         {
             "title": "RESIDENT EVIL VILLAGE: GOLD EDITION (PT-BR) (TODAS DLCS) (R:DODI)",
             "uris": [
@@ -558,6 +552,38 @@
             ],
             "uploadDate": "2023-11-24T23:29:18.000Z",
             "fileSize": "3.73 GB"
+        },
+        {
+            "title": "VISAGE (v3.0.4) (PT-BR) (R:GOG)",
+            "uris": [
+                "magnet:?xt=urn:btih:405C651E08DA6DDA6650D31660C9030D30618B4D&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet&dn=Visage%20%5BL%5D%20%5BRUS%20%2B%20ENG%20%2B%2019%20%2F%20ENG%5D%20(2020)%20(3.04)%20%5BGOG%5D"
+            ],
+            "uploadDate": "2021-02-01T23:29:18.000Z",
+            "fileSize": "7.83 GB"
+        },
+        {
+            "title": "SCORN (v1.2.2.0) (PT-BR) (R:GOG)",
+            "uris": [
+                "magnet:?xt=urn:btih:a5409a5adf9f5f28a21202647c0a129c69e29a1c&dn=Scorn%20v1.2.2.0%20(63131)%20%5bGOG%5d&tr=http%3a%2f%2fbt.t-ru.org%2fann%3fpk%3dfacfd08083faeb49ac3ff9468b879b51&tr=http%3a%2f%2fretracker.local%2fannounce"
+            ],
+            "uploadDate": "2023-03-16T23:29:18.000Z",
+            "fileSize": "18.75 GB"
+        },
+        {
+            "title": "MARVEL’S SPIDER-MAN REMASTERED (v.2.1012.0.0) (PT-BR) (TODAS DLCS) (R:STEAMRIP)",
+            "uris": [
+                "magnet:?xt=urn:btih:415e9f2e1bc5a09f8233d2104586ae83cfda08bf&dn=Marvel%27s.Spider-Man.Remastered.Steam.Rip-InsaneRamZes&tr=http%3A%2F%2Ftr.ysagin.top%3A2710%2Fannounce&tr=http%3A%2F%2Ftr2.ysagin.top%3A2715%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentor.org%3A2710"
+            ],
+            "uploadDate": "2023-08-18T23:29:18.000Z",
+            "fileSize": "80 GB"
+        },
+        {
+            "title": "MARVEL’S SPIDER-MAN: MILES MORALES (v.2.209.0.0) (PT-BR) (TODAS DLCS) (R:DODI)",
+            "uris": [
+                "magnet:?xt=urn:btih:ad5bf1aecdbf0309dd007ce3cc3847059a9607bd&dn=Marvels%20SpiderMan%20Miles%20Morales%20%5BDODI%20Repack%5D&tr=udp%3A%2F%2F9.rarbg.to%3A2870%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fthetracker.org%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker1.wasabii.com.tw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.cypherpunks.ru%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce"
+            ],
+            "uploadDate": "2023-05-21T23:29:18.000Z",
+            "fileSize": "57.3 GB"
         }
     ]
 }
