@@ -570,7 +570,7 @@
             "fileSize": "18.75 GB"
         },
         {
-            "title": "MARVEL’S SPIDER-MAN REMASTERED (v.2.1012.0.0) (PT-BR) (TODAS DLCS) (R:STEAMRIP)",
+            "title": "MARVEL’S SPIDER-MAN REMASTERED (v2.1012.0.0) (PT-BR) (TODAS DLCS) (R:STEAMRIP)",
             "uris": [
                 "magnet:?xt=urn:btih:415e9f2e1bc5a09f8233d2104586ae83cfda08bf&dn=Marvel%27s.Spider-Man.Remastered.Steam.Rip-InsaneRamZes&tr=http%3A%2F%2Ftr.ysagin.top%3A2710%2Fannounce&tr=http%3A%2F%2Ftr2.ysagin.top%3A2715%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentor.org%3A2710"
             ],
@@ -578,12 +578,52 @@
             "fileSize": "80 GB"
         },
         {
-            "title": "MARVEL’S SPIDER-MAN: MILES MORALES (v.2.209.0.0) (PT-BR) (TODAS DLCS) (R:DODI)",
+            "title": "MARVEL’S SPIDER-MAN: MILES MORALES (v2.209.0.0) (PT-BR) (TODAS DLCS) (R:DODI)",
             "uris": [
                 "magnet:?xt=urn:btih:ad5bf1aecdbf0309dd007ce3cc3847059a9607bd&dn=Marvels%20SpiderMan%20Miles%20Morales%20%5BDODI%20Repack%5D&tr=udp%3A%2F%2F9.rarbg.to%3A2870%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fthetracker.org%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker1.wasabii.com.tw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.cypherpunks.ru%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce"
             ],
             "uploadDate": "2023-05-21T23:29:18.000Z",
             "fileSize": "57.3 GB"
+        },
+        {
+            "title": "STARDEW VALLEY (v1.6.8.24119) (PT-BR) (R:GOG)",
+            "uris": [
+                "magnet:?xt=urn:btih:6e1c27694c9d5b8bc43bcdc75b468330b91944fa&dn=Stardew_Valley_1.6.8.24119.6732702600_%2872962%29_win_gog"
+            ],
+            "uploadDate": "2024-04-28T23:29:18.000Z",
+            "fileSize": "608.3 MB"
+        },
+        {
+            "title": "BATMAN: ARKHAM ASYLUM: GOTY EDITION (PT-BR) (R:GOG)",
+            "uris": [
+                "magnet:?xt=urn:btih:BFE8415D02258E37166D70BFB72ED98970BEAEC9&dn=Batman_Arkham_Asylum_1.1_%2838915%29_win_gog"
+            ],
+            "uploadDate": "2024-03-29T23:29:18.000Z",
+            "fileSize": "7.76 GB"
+        },
+        {
+            "title": "BATMAN: ARKHAM CITY: GOTY EDITION (PT-BR) (R:GOG)",
+            "uris": [
+                "magnet:?xt=urn:btih:99FB43AD1A13049AB42AD843822725D77CD6EF26&dn=Batman_Arkham_City_1.1_%2838264%29_win_gog"
+            ],
+            "uploadDate": "2024-04-03T23:29:18.000Z",
+            "fileSize": "17.7 GB"
+        },
+        {
+            "title": "BATMAN™: ARKHAM KNIGHT (PT-BR) (SEASON DLC) (R:GOG)",
+            "uris": [
+                "magnet:?xt=urn:btih:10E3A3D504F43C336C4BC071264CADFCD099E295&dn=Batman_Arkham_Knight_1.98_%2837902%29_win_gog"
+            ],
+            "uploadDate": "2024-03-29T23:29:18.000Z",
+            "fileSize": "63.57 GB"
+        },
+        {
+            "title": "BATMAN™: ARKHAM ORIGINS (PT-BR) (SEASON DLC) (R:GOG)",
+            "uris": [
+                "magnet:?xt=urn:btih:16D7B34E0643B4393356BC27B06111A23F1BD318&dn=Batman_Arkham_Origins_1.0_%2837592%29_win_gog"
+            ],
+            "uploadDate": "2024-03-29T23:29:18.000Z",
+            "fileSize": "23.5 GB"
         }
     ]
 }
