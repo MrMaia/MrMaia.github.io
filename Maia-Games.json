@@ -632,6 +632,14 @@
             ],
             "uploadDate": "2021-03-27T23:29:18.000Z",
             "fileSize": "44 GB"
+        },
+        {
+            "title": "DEVOUR (v4.3.9) (PT-BR) (R:ONLINE-FIX)",
+            "uris": [
+                "magnet:?xt=urn:btih:5ceb2d7ac2b6a52e1236c3b254f1f20ba33ec3e0&dn=DEVOUR&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce"
+            ],
+            "uploadDate": "2024-05-29T23:29:18.000Z",
+            "fileSize": "5.8 GB"
         }
     ]
 }
