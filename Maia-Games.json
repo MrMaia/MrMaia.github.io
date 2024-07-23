@@ -648,6 +648,33 @@
             ],
             "uploadDate": "2024-07-22T23:29:18.000Z",
             "fileSize": "18.52 GB"
+        },
+
+
+
+        {
+            "title": "PANICORE (v1.0.10) (R:ONLINE-FIX)",
+            "uris": [
+                "magnet:?xt=urn:btih:40c8d59ad9b4b38422928e496bf033d5b24ae9d1&dn=PANICORE&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969"
+            ],
+            "uploadDate": "2024-07-17T23:29:18.000Z",
+            "fileSize": "10 GB"
+        },
+        {
+            "title": "CHAINED TOGETHER (v1.8.2) (R:ONLINE-FIX)",
+            "uris": [
+                "magnet:?xt=urn:btih:5d3fced455baab4b3e4da2279b92bb7306a456bd&dn=Chained%20Together&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969"
+            ],
+            "uploadDate": "2024-07-10T23:29:18.000Z",
+            "fileSize": "4 GB"
+        },
+        {
+            "title": "TERRARIA (v1.4.4.9v4) (PT-BR) (R:GOG)",
+            "uris": [
+                "magnet:?xt=urn:btih:D569C084C2F63E4EEEA5213D0335E7E7C8267AD4&dn=Terraria%20%5BL%5D%20%5BRUS%20%2B%20ENG%20%2B%207%5D%20(2011)%20(1.4.4.9%20v4)%20%5BGOG%5D"
+            ],
+            "uploadDate": "2024-07-10T23:29:18.000Z",
+            "fileSize": "700 MB"
         }
     ]
 }
