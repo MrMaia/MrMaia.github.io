@@ -1,0 +1,13 @@
+{
+    "name": "NOME_FONTE",
+    "downloads": [
+        {
+            "title": "NOME_JOGO",
+            "uris": [
+                "LINK_MAGNET_TORRENT"
+            ],
+            "fileSize": "TAMANHO_DO_JOGO_TOTAL",
+            "uploadDate": "DATA_DE_ENVIO_DO_REPACK"
+        }
+    ]
+}
